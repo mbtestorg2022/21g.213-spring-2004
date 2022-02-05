@@ -34,30 +34,394 @@ See the [readings]({{< baseurl >}}/pages/readings) section for downloadable ha
 
 EC = Azar, Betty Schrampfer. _Understanding and Using English Grammar:Chartbook-A Reference Grammar._ 3rd ed. Pearson ESL, 1998. ISBN: 013958661X.
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction | Chapter 16 (EG) |
-| 2 | Basic Grammar (Parts of Speech, Parts of Sentences, and Sentence Types) |  {{< br >}}{{< br >}} Sentence Types {{< br >}}{{< br >}} Chapter 19 (EG) {{< br >}}{{< br >}}  |
-| 3 | Logical Connectors / Connectives | Editing |
-| 4 | Adjustments in Connected Speech |  {{< br >}}{{< br >}} Chapter 17 (EG) {{< br >}}{{< br >}} _Traditional American Values and Beliefs_ {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Interaction Gambits {{< br >}}{{< br >}} Adverb Clauses  {{< br >}}_Quit Playing Games with My Heart_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter 18 (EG) {{< br >}}{{< br >}} Crossword Puzzle {{< br >}}{{< br >}}  |
-| 6 | Reducing Adverb Clauses | Chapter 13 (EG) |
-| 7 | Adjective Clauses Appositives | Reducing Adjective Clauses |
-| 8 | Participal Phrases |  {{< br >}}{{< br >}} Dangling Modifiers {{< br >}}{{< br >}} Chapter 12 (EG) {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Correcting Dangling Modifiers {{< br >}}{{< br >}} Noun Clauses {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Essay Organization | &nbsp; |
-| 11 | Paraphrase | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Word / Sentence Stress {{< br >}}{{< br >}} Debate Gambits {{< br >}}{{< br >}}  | Chapter 14 - 15 (EG) |
-| 13 | Gerunds and Infinitives |  {{< br >}}{{< br >}} _Bystander Apathy_ {{< br >}}{{< br >}} Punctuation {{< br >}}{{< br >}}  |
-| 14 | Jigsaw puzzle: _A Doctor's Dilemma_ | Determiners |
-| 15 |  {{< br >}}{{< br >}} Order of Cumulative Adjectives {{< br >}}{{< br >}} Articles {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | Article Usage with "last" and "last" | &nbsp; |
-| 17 | Thought Group / Prominence | Chapter 1 - 4 (EG) |
-| 18 |  {{< br >}}{{< br >}} Review of Verb Tenses {{< br >}}{{< br >}} Tense Shift in Oral Narratives {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Cumulative Tense Review Exercise {{< br >}}{{< br >}} Chapter 20 (EG) {{< br >}}{{< br >}}  |
-| 19 | Conditionals | _Deterrence_ |
-| 20 |  {{< br >}}{{< br >}} Jigsaw puzzle: _Soft Power_ {{< br >}}{{< br >}} Presentation Gambits {{< br >}}{{< br >}}  | Parallelism |
-| 21 | Debate #2 | &nbsp; |
-| 22 | Quiz #2 | &nbsp; |
-| 23 | Presentations | &nbsp; |
-| 24 | Presentations (cont.) | &nbsp; |
-| 25 | Course Wrap-Up |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 16 (EG)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Grammar (Parts of Speech, Parts of Sentences, and Sentence Types)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sentence Types
+
+Chapter 19 (EG)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Logical Connectors / Connectives
+{{< tdclose >}}
+{{< tdopen >}}
+Editing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Adjustments in Connected Speech
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 17 (EG)
+
+_Traditional American Values and Beliefs_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interaction Gambits
+
+Adverb Clauses  
+_Quit Playing Games with My Heart_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 18 (EG)
+
+Crossword Puzzle
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Reducing Adverb Clauses
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13 (EG)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Adjective Clauses Appositives
+{{< tdclose >}}
+{{< tdopen >}}
+Reducing Adjective Clauses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Participal Phrases
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dangling Modifiers
+
+Chapter 12 (EG)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Correcting Dangling Modifiers
+
+Noun Clauses
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Essay Organization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Paraphrase
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Word / Sentence Stress
+
+Debate Gambits
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14 - 15 (EG)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Gerunds and Infinitives
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Bystander Apathy_
+
+Punctuation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Jigsaw puzzle: _A Doctor's Dilemma_
+{{< tdclose >}}
+{{< tdopen >}}
+Determiners
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Order of Cumulative Adjectives
+
+Articles
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Article Usage with "last" and "last"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Thought Group / Prominence
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1 - 4 (EG)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review of Verb Tenses
+
+Tense Shift in Oral Narratives
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cumulative Tense Review Exercise
+
+Chapter 20 (EG)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Conditionals
+{{< tdclose >}}
+{{< tdopen >}}
+_Deterrence_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jigsaw puzzle: _Soft Power_
+
+Presentation Gambits
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Parallelism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Debate #2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz #2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Course Wrap-Up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

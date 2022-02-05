@@ -24,14 +24,75 @@ Grading
 
 Grades will be assigned according to the following percentages:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and Participation (Class and LLARC) | 20% |
-| Writing Assignments | 20% |
-| Oral Projects | 20% |
-| Quizzes | 20% |
-| Homework | 10% |
-| Final Paper | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and Participation (Class and LLARC)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Projects
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Text
 -------------
