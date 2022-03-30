@@ -4,6 +4,7 @@ description: This resource contains the information regarding high-intermediate 
   communication.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-213-high-intermediate-academic-communication-spring-2004/3e028e4a4630c34b3dbae7f964c97a0e_MIT21G_213S04_verbals.pdf
 file_type: application/pdf
+parent_uid: 5c21b144-4bd4-0c9a-f31c-233f23abdcfb
 resourcetype: Document
 title: ESL 33C
 uid: 3e028e4a-4630-c34b-3dba-e7f964c97a0e
